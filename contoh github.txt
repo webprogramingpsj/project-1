@@ -1,3 +1,4 @@
 baris ke satu
 baris ke dua
 tidak ada baris ke tiga
+baris ke empat
