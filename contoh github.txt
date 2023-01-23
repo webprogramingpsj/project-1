@@ -2,8 +2,8 @@ baris ke satu
 baris ke dua
 baris baru ke tiga
 baris ke empat
-baris terakhir yaitu baris 5
-ada baris baru baris 6
+ada baris baru baris 5
+baris 6
 baris 7
 baris 8
 baris 9
