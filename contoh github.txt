@@ -5,3 +5,5 @@ baris ke empat
 baris terakhir yaitu baris 5
 ada baris baru baris 6
 baris 7
+baris 8
+baris 9
